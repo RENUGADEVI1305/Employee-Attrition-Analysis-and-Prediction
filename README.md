@@ -21,6 +21,6 @@ Employee turnover poses a significant challenge for organizations, resulting in 
 - Model Deployment
 
 ## requirements
-Pandas, Mumpy, Sklearn, Matplotlib, Machine learning model development, Streamlit
+Pandas, Numpy, Sklearn, Matplotlib, Machine learning model development, Streamlit
 
 
